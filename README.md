@@ -6,7 +6,7 @@ Imagine that you have 3000 scientific papers in various languages, for e.g:
     1000 x DE
     1000 x FR
 
-After that you are getting a document in one of those languages.
+After that you are getting a document in one of those languages:
 
     1 x ??
 
